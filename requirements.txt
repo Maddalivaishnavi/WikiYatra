@@ -1,8 +1,8 @@
- 
-streamlit
-requests
-Pillow
-python-dotenv
-folium
-streamlit-folium
-polyline
+streamlit>=1.34.0
+requests>=2.31.0
+Pillow>=10.3.0
+python-dotenv>=1.0.1
+googlemaps>=4.10.0
+folium>=0.15.1
+streamlit-folium>=0.17.0
+polyline>=2.0.1
